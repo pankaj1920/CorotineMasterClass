@@ -8,7 +8,6 @@ class Perform2SequentialNetworkRequestsViewModel(
 ) : BaseViewModel<UiState>() {
 
     fun perform2SequentialNetworkRequest() {
-        // TODO: Exercise 1
-        // switch to branch "coroutine_course_full" to see solution
+
     }
 }
